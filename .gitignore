@@ -2,3 +2,6 @@ multiplication.o
 main.exe
 addition.o
 libmarc.a
+addition.s
+multiplication.s
+
